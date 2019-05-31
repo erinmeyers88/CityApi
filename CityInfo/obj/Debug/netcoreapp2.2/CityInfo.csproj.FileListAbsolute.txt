@@ -1,0 +1,15 @@
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.dll.config
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.deps.json
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.runtimeconfig.json
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.runtimeconfig.dev.json
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.dll
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.pdb
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.csprojAssemblyReference.cache
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.csproj.CoreCompileInputs.cache
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.AssemblyInfoInputs.cache
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.AssemblyInfo.cs
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.dll
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.pdb
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.RazorAssemblyInfo.cache
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.RazorAssemblyInfo.cs
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.RazorTargetAssemblyInfo.cache
