@@ -16,6 +16,8 @@
         <e p="Models" t="Include">
           <e p="CityDto.cs" t="Include" />
           <e p="PointOfInterestDto.cs" t="Include" />
+          <e p="PointOfInterestForCreationDto.cs" t="Include" />
+          <e p="PointOfInterestForUpdateDto.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c3c5ac5-9161-42ce-8ed3-74cc1ccbf764" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CityInfo/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CityInfo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/CitiesDataStore.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/CityInfo.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/Controllers/CitiesController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/Models/CityDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/Models/PointOfInterestDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/app.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CityInfo/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CityInfo/Models/PointOfInterestForCreationDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CityInfo/Models/PointOfInterestForUpdateDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CityInfo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CityInfo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CityInfo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CityInfo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CityInfo/bin/Debug/netcoreapp2.2/CityInfo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,21 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CityInfo/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+            <state relative-caret-position="284">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
               <folding>
-                <marker date="1559325366378" expanded="true" signature="6:286" ph="..." />
-                <marker date="1559325366378" expanded="true" signature="306:1655" ph="{...}" />
-                <marker date="1559325366378" expanded="true" signature="333:1653" ph="{...}" />
-                <marker date="1559325366378" expanded="true" signature="348:563" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-                <marker date="1559325366378" expanded="true" signature="630:1164" ph="{...}" />
-                <marker date="1559325366378" expanded="true" signature="801:1154" ph="/* .AddJsonOptions(o =&gt; ... */" />
-                <marker date="1559325366378" expanded="true" signature="1352:1647" ph="{...}" />
-                <marker date="1559325366378" expanded="true" signature="1399:1476" ph="{...}" />
-                <marker date="1559325366378" expanded="true" signature="1493:1572" ph="{...}" />
+                <marker date="1559325810003" expanded="true" signature="6:329" ph="..." />
+                <marker date="1559325810003" expanded="true" signature="349:1698" ph="{...}" />
+                <marker date="1559325810003" expanded="true" signature="376:1696" ph="{...}" />
+                <marker date="1559325810003" expanded="true" signature="391:606" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1559325810003" expanded="true" signature="673:1207" ph="{...}" />
+                <marker date="1559325810003" expanded="true" signature="844:1197" ph="/* .AddJsonOptions(o =&gt; ... */" />
+                <marker date="1559325810003" expanded="true" signature="1395:1690" ph="{...}" />
+                <marker date="1559325810003" expanded="true" signature="1442:1519" ph="{...}" />
+                <marker date="1559325810003" expanded="true" signature="1536:1615" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -60,10 +56,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestForCreationDto.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding>
+                <marker date="1559573881130" expanded="true" signature="71:474" ph="{...}" />
+                <marker date="1559573881130" expanded="true" signature="120:472" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CityInfo/Controllers/CitiesController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <marker date="1559323167414" expanded="true" signature="6:128" ph="..." />
                 <marker date="1559323167414" expanded="true" signature="160:710" ph="{...}" />
@@ -76,57 +85,69 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CityInfo/CityInfo.csproj">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CityInfo/CitiesDataStore.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+            <state relative-caret-position="564">
+              <caret line="179" column="12" selection-start-line="179" selection-start-column="12" selection-end-line="179" selection-end-column="12" />
               <folding>
-                <marker date="1559323549209" expanded="true" signature="6:56" ph="..." />
-                <marker date="1559323549209" expanded="true" signature="76:2886" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="111:2884" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="290:2878" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="354:2867" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="402:1169" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="636:1151" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="688:875" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="928:1127" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="1217:2048" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="1472:2030" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="1524:1746" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="1799:2006" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="2096:2853" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="2318:2835" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="2370:2595" ph="{...}" />
-                <marker date="1559323549209" expanded="true" signature="2648:2811" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="6:125" ph="..." />
+                <marker date="1559575238346" expanded="true" signature="157:5921" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="242:5919" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="356:608" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="488:551" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="758:1210" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="902:965" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="1096:1159" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="1380:2663" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="1431:1496" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="1566:1714" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="1764:1839" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="1986:2049" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="2266:2429" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="2842:3914" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="2893:2958" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="3028:3176" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="3226:3301" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="3448:3511" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="3660:3723" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="4129:5744" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="4173:4238" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="4385:4448" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="4597:4660" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="4749:4885" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="5016:5091" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="5187:5335" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="5440:5515" ph="{...}" />
+                <marker date="1559575238346" expanded="true" signature="5871:5904" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs">
+        <entry file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestForUpdateDto.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
-                <marker date="1559323958581" expanded="true" signature="6:64" ph="..." />
-                <marker date="1559323958581" expanded="true" signature="96:1128" ph="{...}" />
-                <marker date="1559323958581" expanded="true" signature="181:1126" ph="{...}" />
-                <marker date="1559323958581" expanded="true" signature="295:547" ph="{...}" />
-                <marker date="1559323958581" expanded="true" signature="427:490" ph="{...}" />
-                <marker date="1559323958581" expanded="true" signature="668:1120" ph="{...}" />
-                <marker date="1559323958581" expanded="true" signature="812:875" ph="{...}" />
-                <marker date="1559323958581" expanded="true" signature="1006:1069" ph="{...}" />
+                <marker date="1559573881136" expanded="true" signature="71:472" ph="{...}" />
+                <marker date="1559573881136" expanded="true" signature="118:470" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CityInfo/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <marker date="1559316192534" expanded="false" signature="6:255" ph="..." />
+                <marker date="1559316192534" expanded="true" signature="275:602" ph="{...}" />
+                <marker date="1559316192534" expanded="true" signature="302:600" ph="{...}" />
+                <marker date="1559316192534" expanded="true" signature="355:429" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -155,23 +176,28 @@
     <setting file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CityInfo/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Desktop/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/CitiesDataStore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestForCreationDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CityInfo/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CityInfo/Models/CityDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CityInfo/Controllers/CitiesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestForUpdateDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CityInfo/CitiesDataStore.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CityInfo/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/CityInfo/CityInfo.csproj" />
         <option value="$PROJECT_DIR$/CityInfo/Controllers/CitiesController.cs" />
         <option value="$PROJECT_DIR$/CityInfo/Models/PointOfInterestDto.cs" />
         <option value="$PROJECT_DIR$/CityInfo/Models/CityDto.cs" />
         <option value="$PROJECT_DIR$/CityInfo/CitiesDataStore.cs" />
-        <option value="$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs" />
+        <option value="$PROJECT_DIR$/CityInfo/CityInfo.csproj" />
         <option value="$PROJECT_DIR$/CityInfo/Startup.cs" />
+        <option value="$PROJECT_DIR$/CityInfo/Models/PointOfInterestForUpdate.cs" />
+        <option value="$PROJECT_DIR$/CityInfo/Models/PointOfInterestForUpdateDto.cs" />
+        <option value="$PROJECT_DIR$/CityInfo/Models/PointOfInterestForCreationDto.cs" />
+        <option value="$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs" />
       </list>
     </option>
   </component>
@@ -191,7 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -203,12 +228,6 @@
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="CityInfo" type="24d0babc:SolutionExplorerModelNode" />
               <item name="CityInfo" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CityInfo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CityInfo" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
@@ -228,6 +247,7 @@
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,6 +256,9 @@
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -294,12 +317,13 @@
       <option name="presentableId" value="Default" />
       <updated>1559316190530</updated>
       <workItem from="1559316192255" duration="1195000" />
-      <workItem from="1559317421906" duration="6256000" />
+      <workItem from="1559317421906" duration="6773000" />
+      <workItem from="1559572089993" duration="2654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7451000" />
+    <option name="totallyTimeSpent" value="10622000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,7 +338,7 @@
     <frame x="593" y="1463" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22174536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22460657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -358,65 +382,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CityInfo/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <marker date="1559316192534" expanded="false" signature="6:255" ph="..." />
-            <marker date="1559316192534" expanded="true" signature="275:602" ph="{...}" />
-            <marker date="1559316192534" expanded="true" signature="302:600" ph="{...}" />
-            <marker date="1559316192534" expanded="true" signature="355:429" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CityInfo/appsettings.Development.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CityInfo/appsettings.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CityInfo.sln">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CityInfo/Properties/launchSettings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CityInfo/CityInfo.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CityInfo/Controllers/CitiesController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <marker date="1559323167414" expanded="true" signature="6:128" ph="..." />
-            <marker date="1559323167414" expanded="true" signature="160:710" ph="{...}" />
-            <marker date="1559323167414" expanded="true" signature="235:708" ph="{...}" />
-            <marker date="1559323167414" expanded="true" signature="303:378" ph="{...}" />
-            <marker date="1559323167414" expanded="true" signature="450:706" ph="{...}" />
-            <marker date="1559323167414" expanded="true" signature="594:657" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestDto.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding>
-            <marker date="1559323451407" expanded="true" signature="25:203" ph="{...}" />
-            <marker date="1559323451407" expanded="true" signature="63:201" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -430,22 +405,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CityInfo/Models/CityDto.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding>
-            <marker date="1559323496661" expanded="true" signature="60:464" ph="{...}" />
-            <marker date="1559323496661" expanded="true" signature="87:462" ph="{...}" />
-            <marker date="1559323496661" expanded="true" signature="263:334" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CityInfo/CitiesDataStore.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        <state relative-caret-position="510">
+          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
           <folding>
             <marker date="1559323549209" expanded="true" signature="6:56" ph="..." />
             <marker date="1559323549209" expanded="true" signature="76:2886" ph="{...}" />
@@ -468,37 +431,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs">
+    <entry file="file://$PROJECT_DIR$/CityInfo.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityInfo/CityInfo.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <marker date="1559323958581" expanded="true" signature="6:64" ph="..." />
-            <marker date="1559323958581" expanded="true" signature="96:1128" ph="{...}" />
-            <marker date="1559323958581" expanded="true" signature="181:1126" ph="{...}" />
-            <marker date="1559323958581" expanded="true" signature="295:547" ph="{...}" />
-            <marker date="1559323958581" expanded="true" signature="427:490" ph="{...}" />
-            <marker date="1559323958581" expanded="true" signature="668:1120" ph="{...}" />
-            <marker date="1559323958581" expanded="true" signature="812:875" ph="{...}" />
-            <marker date="1559323958581" expanded="true" signature="1006:1069" ph="{...}" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CityInfo/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+        <state relative-caret-position="284">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding>
-            <marker date="1559325366378" expanded="true" signature="6:286" ph="..." />
-            <marker date="1559325366378" expanded="true" signature="306:1655" ph="{...}" />
-            <marker date="1559325366378" expanded="true" signature="333:1653" ph="{...}" />
-            <marker date="1559325366378" expanded="true" signature="348:563" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1559325366378" expanded="true" signature="630:1164" ph="{...}" />
-            <marker date="1559325366378" expanded="true" signature="801:1154" ph="/* .AddJsonOptions(o =&gt; ... */" />
-            <marker date="1559325366378" expanded="true" signature="1352:1647" ph="{...}" />
-            <marker date="1559325366378" expanded="true" signature="1399:1476" ph="{...}" />
-            <marker date="1559325366378" expanded="true" signature="1493:1572" ph="{...}" />
+            <marker date="1559325810003" expanded="true" signature="6:329" ph="..." />
+            <marker date="1559325810003" expanded="true" signature="349:1698" ph="{...}" />
+            <marker date="1559325810003" expanded="true" signature="376:1696" ph="{...}" />
+            <marker date="1559325810003" expanded="true" signature="391:606" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1559325810003" expanded="true" signature="673:1207" ph="{...}" />
+            <marker date="1559325810003" expanded="true" signature="844:1197" ph="/* .AddJsonOptions(o =&gt; ... */" />
+            <marker date="1559325810003" expanded="true" signature="1395:1690" ph="{...}" />
+            <marker date="1559325810003" expanded="true" signature="1442:1519" ph="{...}" />
+            <marker date="1559325810003" expanded="true" signature="1536:1615" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityInfo/Models/CityDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding>
+            <marker date="1559323496661" expanded="true" signature="60:464" ph="{...}" />
+            <marker date="1559323496661" expanded="true" signature="87:462" ph="{...}" />
+            <marker date="1559323496661" expanded="true" signature="263:334" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <marker date="1559323451407" expanded="true" signature="25:203" ph="{...}" />
+            <marker date="1559323451407" expanded="true" signature="63:201" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityInfo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1559316192534" expanded="false" signature="6:255" ph="..." />
+            <marker date="1559316192534" expanded="true" signature="275:602" ph="{...}" />
+            <marker date="1559316192534" expanded="true" signature="302:600" ph="{...}" />
+            <marker date="1559316192534" expanded="true" signature="355:429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestForUpdate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestForCreationDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <marker date="1559573881130" expanded="true" signature="71:474" ph="{...}" />
+            <marker date="1559573881130" expanded="true" signature="120:472" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityInfo/Models/PointOfInterestForUpdateDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1559573881136" expanded="true" signature="71:472" ph="{...}" />
+            <marker date="1559573881136" expanded="true" signature="118:470" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityInfo/Controllers/CitiesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <marker date="1559323167414" expanded="true" signature="6:128" ph="..." />
+            <marker date="1559323167414" expanded="true" signature="160:710" ph="{...}" />
+            <marker date="1559323167414" expanded="true" signature="235:708" ph="{...}" />
+            <marker date="1559323167414" expanded="true" signature="303:378" ph="{...}" />
+            <marker date="1559323167414" expanded="true" signature="450:706" ph="{...}" />
+            <marker date="1559323167414" expanded="true" signature="594:657" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CityInfo/Controllers/PointsOfInterestController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="179" column="12" selection-start-line="179" selection-start-column="12" selection-end-line="179" selection-end-column="12" />
+          <folding>
+            <marker date="1559575238346" expanded="true" signature="6:125" ph="..." />
+            <marker date="1559575238346" expanded="true" signature="157:5921" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="242:5919" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="356:608" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="488:551" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="758:1210" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="902:965" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="1096:1159" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="1380:2663" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="1431:1496" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="1566:1714" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="1764:1839" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="1986:2049" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="2266:2429" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="2842:3914" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="2893:2958" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="3028:3176" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="3226:3301" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="3448:3511" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="3660:3723" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="4129:5744" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="4173:4238" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="4385:4448" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="4597:4660" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="4749:4885" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="5016:5091" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="5187:5335" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="5440:5515" ph="{...}" />
+            <marker date="1559575238346" expanded="true" signature="5871:5904" ph="{...}" />
           </folding>
         </state>
       </provider>
