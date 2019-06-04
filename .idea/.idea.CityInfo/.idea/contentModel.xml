@@ -6,6 +6,7 @@
         <e p="app.config" t="Include" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
+        <e p="appSettings.Production.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="CitiesDataStore.cs" t="Include" />
         <e p="CityInfo.csproj" t="IncludeRecursive" />
@@ -19,6 +20,7 @@
           <e p="PointOfInterestForCreationDto.cs" t="Include" />
           <e p="PointOfInterestForUpdateDto.cs" t="Include" />
         </e>
+        <e p="nlog.config" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
@@ -29,6 +31,11 @@
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="CloudMailService.cs" t="Include" />
+          <e p="IMailService.cs" t="Include" />
+          <e p="LocalMailService.cs" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
       </e>

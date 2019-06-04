@@ -13,3 +13,4 @@
 /Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.RazorAssemblyInfo.cache
 /Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.RazorAssemblyInfo.cs
 /Users/erinvincent/Documents/Practice/CityInfo/CityInfo/obj/Debug/netcoreapp2.2/CityInfo.RazorTargetAssemblyInfo.cache
+/Users/erinvincent/Documents/Practice/CityInfo/CityInfo/bin/Debug/netcoreapp2.2/nlog.config
